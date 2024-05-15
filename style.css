@@ -1,0 +1,31 @@
+.chat-container {
+	width: 500px;
+	height: 600px;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+
+.chat-header {
+	background-color: #f0f0f0;
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.chat-messages {
+	padding: 20px;
+}
+
+.message {
+	margin-bottom: 20px;
+}
+
+.username {
+	font-weight: bold;
+	color: #00698f;
+}
+
+.message-text {
+	color: #333;
+}
+
+
